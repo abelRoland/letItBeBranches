@@ -15,4 +15,4 @@ His prefered quote is:
 
 |  |   |  |
 | -------- | -------- | ---- |
-| [:point_left:](./bioLisa.md) | [:book:](./README.md) | [:point_right:](./bioSayed.md) |
+| [:point_left:](./bioLisa.md) | [:book:](./README.md) | :point_right: |

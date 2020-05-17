@@ -5,3 +5,4 @@
 ![group_picture](https://user-images.githubusercontent.com/60756836/81712792-55cffd00-9475-11ea-87ef-93a720d3a407.jpg)
 
 - [Bio Abel](./bioAbel.md)
+- [Bio Galal](./bioGalal.md)

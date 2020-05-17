@@ -4,9 +4,11 @@
 
 write a short description of your web page:
 
-- what is it about?
-- who would want to read it?
-- why would they want to read it?
+- We are the group Let it Be and here are the links for our Bios
+
+![group_picture](https://user-images.githubusercontent.com/60756836/81712792-55cffd00-9475-11ea-87ef-93a720d3a407.jpg)
+- Everybody who wants to know about us is welcome.
+- So, if you want to know more about us, you would enjoy this repo.
 
 ## 0. Set-Up
 
@@ -14,11 +16,11 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-1. Created a new repository
-1. Clone the repository
-1. Copy-paste this development strategy file into a file called `development-strategy.md`
-1. Add a license
-1. Give a title to your README
+1. [X] Created a new repository
+1. [X] Clone the repository
+1. [X] Copy-paste this development strategy file into a file called `development-strategy.md`
+1. [X] Add a license
+1. [X] Give a title to your README
 1. Fill out the rest of this file with your team's names
 1. Push the changes
 1. turn on GitHub Pages
